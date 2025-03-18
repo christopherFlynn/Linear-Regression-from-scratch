@@ -15,3 +15,5 @@ The goal of this project is to implement linear regression from scratch, gaining
 
 ### **Results**  
 The model successfully predicted the target variable with reasonable accuracy. The performance was evaluated against a baseline model, showing improvements in prediction quality after tuning hyperparameters.
+
+🔗 **View Interactive Notebook (nbviewer)**: [nbviewer Link](https://nbviewer.org/github/christopherFlynn/Linear-Regression-from-scratch/blob/main/linear-regression-from-scratch.ipynb)
